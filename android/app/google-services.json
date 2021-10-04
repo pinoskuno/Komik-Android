@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63230820971",
+    "firebase_url" : "https://komikedmt-default-rtdb.firebaseio.com",
+    "project_id": "komikedmt",
+    "storage_bucket": "komikedmt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63230820971:android:4fa7f8d402c5944f62a72e",
+        "android_client_info": {
+          "package_name": "com.example.komik_edmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63230820971-kb093f1hp863i232kn3hd4qsjr76c4q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtU9PR2Ypz3r37C3rS1vgmQ7HMwnsSmx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63230820971-kb093f1hp863i232kn3hd4qsjr76c4q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
